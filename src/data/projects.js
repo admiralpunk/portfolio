@@ -33,4 +33,18 @@ export const projects = [
     github: "https://github.com/admiralpunk/handicraft-haven",
     image: "/handicraft.jpg"
   },
+  {
+    title: "CF Mashup Generator",
+    description: "An interactive platform for creating and managing problem sets tailored for Codeforces contests",
+    techStack: "React.js, Vite, TypeScript",
+    features: [
+      "Dynamic Problem Creation: Intuitive UI to create and customize programming problems",
+      "Codeforces-Compatible Output: Export problem sets in formats ready for Codeforces contests",
+      "Problem Tags and Difficulty Levels: Assign tags and difficulty ratings for streamlined categorization",
+      "Optimized Performance: Built with Vite for fast builds and lightning-fast performance"
+    ],
+    github: "https://github.com/admiralpunk/Cf-mashup",
+    demo: "https://mashup2.vercel.app/",
+    image: "/mashup.png"
+  }
 ];
