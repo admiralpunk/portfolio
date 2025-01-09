@@ -25,7 +25,7 @@ const About = () => {
               databases, and competitive programming, I thrive on solving
               challenges and optimizing systems.
             </p>
-            <a href="/resume.pdf" download className="button">
+            <a href="/Aniket_Kolte.pdf" download className="button">
               Download Resume
             </a>
           </div>
