@@ -13,7 +13,7 @@ const experiences = [
     ]
   },
   {
-    company: 'FacePe',
+    company: 'Fluxvisio Tech',
     role: 'Database/Backend Intern',
     date: 'August 2024 - October 2024',
     techStack: 'Node.js, Express, JavaScript',
