@@ -2,6 +2,18 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
+    company: 'Stealth Startup',
+    role: 'Backend Intern',
+    date: 'February 2025 – Present',
+    techStack: 'Kubernetes, AWS, FastAPI',
+    responsibilities: [
+      'Deployed and managed Kubernetes workloads to ensure scalable and reliable application infrastructure',
+      'Worked with AWS services to optimize cloud-based deployments and system performance',
+      'Developed and maintained backend services using FastAPI, enabling high-performance API interactions',
+      'Integrated Kafka for real-time event streaming and Redis for efficient caching and message brokering'
+    ]
+  },
+  {
     company: 'ZenStudy',
     role: 'Backend Developer Intern',
     date: 'December 2024 - Present',
@@ -34,6 +46,7 @@ const experiences = [
     ]
   }
 ];
+
 
 const Experience = () => {
   return (
