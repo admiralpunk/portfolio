@@ -9,8 +9,7 @@ const experiences = [
     responsibilities: [
       'Deployed and managed Kubernetes workloads to ensure scalable and reliable application infrastructure',
       'Worked with AWS services to optimize cloud-based deployments and system performance',
-      'Developed and maintained backend services using FastAPI, enabling high-performance API interactions',
-      'Integrated Kafka for real-time event streaming and Redis for efficient caching and message brokering'
+      'Developed and maintained backend services using FastAPI, enabling high-performance API interactions'
     ]
   },
   {
