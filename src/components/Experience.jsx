@@ -4,7 +4,7 @@ const experiences = [
   {
     company: 'Stealth Startup',
     role: 'Backend Intern',
-    date: 'February 2025 – Present',
+    date: 'February 2025 – June 2025',
     techStack: 'Kubernetes, AWS, FastAPI',
     responsibilities: [
       'Deployed and managed Kubernetes workloads to ensure scalable and reliable application infrastructure',
